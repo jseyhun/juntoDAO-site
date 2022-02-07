@@ -32,7 +32,7 @@ module.exports = {
       disableSwitch: true,
     },
     navbar: {
-      title: 'MoonDAO',
+      title: 'JuntoDAO',
       logo: {
         alt: 'MoonDAO Logo moon dao',
         src: 'img/moondaologo.png',

@@ -133,7 +133,7 @@ export default function Home() {
 
   return (
     <Layout title={siteConfig.title} description={siteConfig.tagline}>
-      <BrowserOnlyAxios></BrowserOnlyAxios>
+      {/* <BrowserOnlyAxios></BrowserOnlyAxios> */}
       <meta charset="UTF-8" />
       <div className="Home">
         <div className="HomeHero">
